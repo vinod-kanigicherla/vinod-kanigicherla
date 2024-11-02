@@ -1,6 +1,6 @@
 ## About Me:
 
-Hi! I'm Vinod, a student at UCSB majoring in Computer Science. I am deeply interested in the intersection of data science and computer science, with a particular focus on software engineering and its practical applications for solving real-world challenges.
+Hi! I'm Vinod, a student at UCSB majoring in Computer Science. I am deeply interested in the intersection of computer science and software engineering, with a particular focus on systems, networking, and Linux, especially in its practical applications for solving real-world challenges.
 
 Please feel free to reach out to me via [LinkedIn]([url](https://www.linkedin.com/in/vinodkanigicherla/)) or email at vinod.kanigicherla@gmail.com
 
